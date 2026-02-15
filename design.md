@@ -115,7 +115,8 @@ Geo-location stored using PostGIS for map-based dashboard view.
 
 ## 9. Performance Targets
 
-- <5s processing per image
-- >85% detection accuracy
-- <15% false positives
+- < 5s processing per image
+- > 85% detection accuracy
+- < 15% false positives
 - Dashboard response <2s
+
